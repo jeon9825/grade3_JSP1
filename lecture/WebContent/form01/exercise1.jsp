@@ -33,7 +33,6 @@ thead tr {
 		int number1 = number == null ? 0 : Integer.parseInt(number);
 	%>
 	<div class="container">
-		<form>
 			<h3>number</h3>
 			<div class="form-group">
 				<input type="text" class="form-control"
